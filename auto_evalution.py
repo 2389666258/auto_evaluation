@@ -24,17 +24,17 @@ import ddddocr  # 识别验证码
 # 登录页
 login_qlu_url = 'https://sso.qlu.edu.cn'
 # 用户名(学号)
-username_qlu = '202103180030'
+username_qlu = ''
 # 密码
-password_qlu = 'woshixiazuo?+150'
+password_qlu = ''
 
 ''' QLU教务系统(教学一体化服务平台) '''
 # 登录页
 login_edu_url = 'http://jwxt-qlu-edu-cn.vpn.qlu.edu.cn:8118/Logon.do?method=logon'
 # 用户名(学号)
-username_edu = '202103180030'
+username_edu = ''
 # 密码
-password_edu = 'zcy20030520'
+password_edu = ''
 
 ''' 评教目标页面 '''
 # 评教目标页
