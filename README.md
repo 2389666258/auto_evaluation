@@ -20,6 +20,6 @@
 
  ### --- warning ---
 
- 1. 此程序需要安装 selenium 包
+1. 此程序需要安装 selenium 包
 
- 2. 此程序需要安装 ddddocr 包 源至:(https://github.com/sml2h3/ddddocr)
+2. 此程序需要安装 ddddocr 包 源至:(https://github.com/sml2h3/ddddocr)
